@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TicTacToeJavaRMI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/TicTacToeJavaRMI_jar/TicTacToeJavaRMI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
